@@ -1,5 +1,4 @@
-A simple Nodejs/Express web server.
-# 關係
+# 介紹
 ### /db.js  
 API與資料庫互動的方法，在這裡定義篩選資料的邏輯，判斷資料的正確性避免使用model時產生例外。  
 ### /models
